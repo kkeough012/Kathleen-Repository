@@ -1,25 +1,19 @@
 #import "@preview/charged-ieee:0.1.4": ieee
 
 #show: ieee.with(
-  title: [Report Template],
+  title: [PostClass2.1.1],
   abstract: [
     This is where you put your abstract. Abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract.
   ],
   authors: (
     (
-      name: "Author 1",
-      department: [Department 1],
+      name: "Kathleen Keough",
+      department: [CEE],
       organization: [University of Illinois Urbana-Champaign],
       location: [Urbana, IL, USA],
-      email: "author1@illinois.edu",
+      email: "kkeough3@illinois.edu",
     ),
-    (
-      name: "Author 2",
-      department: [Department 2],
-      organization: [University of Illinois Urbana-Champaign],
-      location: [Urbana, IL, USA],
-      email: "author2@illinois.edu",
-    ),
+   
   ),
   index-terms: ("Optional", "Keywords", "Here"),
   bibliography: bibliography("refs.bib"),
